@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "backgroundColor": "#f0f0f0",
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "char-view": "/components/CharView",
+    "functional-areas": "/components/FunctionalAreas",
+    "expression": "/components/expression"
+  }
+}

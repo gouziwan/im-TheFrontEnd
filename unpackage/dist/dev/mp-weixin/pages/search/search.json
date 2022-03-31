@@ -1,0 +1,14 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-list": "/uni_modules/uview-ui/components/u-list/u-list",
+    "u-cell": "/uni_modules/uview-ui/components/u-cell/u-cell",
+    "u-list-item": "/uni_modules/uview-ui/components/u-list-item/u-list-item",
+    "u-avatar": "/uni_modules/uview-ui/components/u-avatar/u-avatar",
+    "u-empty": "/uni_modules/uview-ui/components/u-empty/u-empty",
+    "u-toast": "/uni_modules/uview-ui/components/u-toast/u-toast",
+    "app-cell": "/components/app-cell",
+    "add-buddy": "/components/AddBuddy"
+  }
+}

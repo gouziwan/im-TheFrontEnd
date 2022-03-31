@@ -1,0 +1,1 @@
+<view class="char-map" style="{{(getSizeStyle)}}"><view class="char-map-title" style="{{'width:'+(width+'px')+';'+('height:'+(height*0.3+'px')+';')}}"><view>{{value.title||value.address}}</view></view><view class="char-map-title-map"><map class="map" style="{{(getMapSize)}}" latitude="{{getlat}}" longitude="{{getlng}}" markers="{{markers}}"></map></view></view>

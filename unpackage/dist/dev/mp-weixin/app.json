@@ -1,0 +1,58 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/login",
+    "pages/register/register",
+    "pages/search/search",
+    "pages/details/details",
+    "pages/userdetails/userdetails",
+    "pages/user/user",
+    "pages/chat/chat",
+    "pages/userAvarta/userAvarta",
+    "pages/viewMore/viewMore",
+    "pages/Friend/Friend",
+    "pages/FriendRequest/FriendRequest",
+    "pages/Forgotpassword/ForgotPassword",
+    "pages/test/test"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "selectedColor": "#fbb321",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "消息",
+        "iconPath": "static/images/xiao.png",
+        "selectedIconPath": "static/images/xiao-hover.png"
+      },
+      {
+        "pagePath": "pages/Friend/Friend",
+        "text": "好友",
+        "iconPath": "static/images/hd.png",
+        "selectedIconPath": "static/images/hd-hover.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "我的",
+        "iconPath": "static/images/wd.png",
+        "selectedIconPath": "static/images/wd-hover.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取用户定位信息"
+    }
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

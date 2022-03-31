@@ -1,0 +1,14 @@
+{
+  "navigationStyle": "custom",
+  "backgroundColor": "#fff",
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-index-list": "/uni_modules/uview-ui/components/u-index-list/u-index-list",
+    "u-index-item": "/uni_modules/uview-ui/components/u-index-item/u-index-item",
+    "u-cell-group": "/uni_modules/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell": "/uni_modules/uview-ui/components/u-cell/u-cell",
+    "u-badge": "/uni_modules/uview-ui/components/u-badge/u-badge",
+    "u-index-anchor": "/uni_modules/uview-ui/components/u-index-anchor/u-index-anchor",
+    "u-avatar": "/uni_modules/uview-ui/components/u-avatar/u-avatar"
+  }
+}

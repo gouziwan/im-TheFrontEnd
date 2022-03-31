@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "app-checkbox": "/components/chckebox",
+    "char-view-map": "/components/CharViewMap"
+  }
+}

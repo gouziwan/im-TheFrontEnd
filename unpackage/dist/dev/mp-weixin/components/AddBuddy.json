@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup",
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-avatar": "/uni_modules/uview-ui/components/u-avatar/u-avatar",
+    "u-textarea": "/uni_modules/uview-ui/components/u-textarea/u-textarea",
+    "u-toast": "/uni_modules/uview-ui/components/u-toast/u-toast"
+  }
+}

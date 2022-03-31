@@ -1,0 +1,15 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "backgroundColor": "#f0f0f0",
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-avatar": "/uni_modules/uview-ui/components/u-avatar/u-avatar",
+    "u-loading-icon": "/uni_modules/uview-ui/components/u-loading-icon/u-loading-icon",
+    "u-search": "/uni_modules/uview-ui/components/u-search/u-search",
+    "u-empty": "/uni_modules/uview-ui/components/u-empty/u-empty",
+    "u-swipe-action": "/uni_modules/uview-ui/components/u-swipe-action/u-swipe-action",
+    "u-swipe-action-item": "/uni_modules/uview-ui/components/u-swipe-action-item/u-swipe-action-item",
+    "u-badge": "/uni_modules/uview-ui/components/u-badge/u-badge"
+  }
+}

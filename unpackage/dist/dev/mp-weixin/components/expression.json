@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup",
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-toast": "/uni_modules/uview-ui/components/u-toast/u-toast",
+    "app-chcke-box": "/components/chckebox"
+  }
+}

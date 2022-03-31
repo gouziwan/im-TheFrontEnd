@@ -1,0 +1,15 @@
+{
+  "navigationStyle": "custom",
+  "backgroundColor": "#f0f0f0",
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-cell-group": "/uni_modules/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell": "/uni_modules/uview-ui/components/u-cell/u-cell",
+    "u-avatar": "/uni_modules/uview-ui/components/u-avatar/u-avatar",
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup",
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input",
+    "u--textarea": "/uni_modules/uview-ui/components/u--textarea/u--textarea",
+    "u-datetime-picker": "/uni_modules/uview-ui/components/u-datetime-picker/u-datetime-picker",
+    "u-toast": "/uni_modules/uview-ui/components/u-toast/u-toast"
+  }
+}

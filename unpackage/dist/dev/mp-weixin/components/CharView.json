@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-loadmore": "/uni_modules/uview-ui/components/u-loadmore/u-loadmore",
+    "u-avatar": "/uni_modules/uview-ui/components/u-avatar/u-avatar",
+    "char-view-img": "/components/CharViewImg",
+    "char-view-video": "/components/CharViewVideo",
+    "char-view-map": "/components/CharViewMap"
+  }
+}
